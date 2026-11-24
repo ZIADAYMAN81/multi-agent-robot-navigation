@@ -1,6 +1,6 @@
 # Multi-Agent Library Robot Navigation (Actor–Critic + PSO)
 
-> AI Planning & Robotics coursework, The British University in Egypt. Team of 3.
+> AI Planning & Robotics coursework, The British University in Egypt.
 
 This project simulates four autonomous robots moving through a library and learning, with reinforcement learning, to reach goals without colliding with walls, furniture, moving cleaning robots or each other. The robots share information with each other, and **Particle Swarm Optimisation** tunes how much each robot listens to the others.
 
