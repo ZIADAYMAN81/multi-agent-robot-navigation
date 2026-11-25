@@ -42,3 +42,7 @@ A Pygame window opens for the inference scenarios. Close it to continue.
 
 ## Tech stack
 Python · TensorFlow / Keras · Pygame · NumPy · Particle Swarm Optimisation
+
+## License
+
+Released under the [MIT License](LICENSE).
